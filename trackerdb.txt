@@ -18982,16 +18982,6 @@ wistia.net^$3p
 ||youporn.com^
 ! trackerdb_id:youporn trackerdb_category:pornvertising trackerdb_domain
 ||ypncdn.com^
-! trackerdb_id:youtube trackerdb_category:audio_video_player trackerdb_domain
-||googlevideo.com^
-! trackerdb_id:youtube trackerdb_category:audio_video_player trackerdb_domain
-||youtube-nocookie.com^
-! trackerdb_id:youtube trackerdb_category:audio_video_player trackerdb_domain
-||youtube.com^
-! trackerdb_id:youtube trackerdb_category:audio_video_player trackerdb_domain
-||ytimg.com^
-! trackerdb_id:youtube_subscription trackerdb_category:customer_interaction trackerdb_filter
-||youtube.com/subscribe_widget
 ! trackerdb_id:yp trackerdb_category:advertising trackerdb_filter
 ||c.ypcdn.com/2/i/rtd
 ! trackerdb_id:yp trackerdb_category:advertising trackerdb_filter
